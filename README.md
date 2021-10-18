@@ -5,6 +5,8 @@ npx degit alger23/neutralinojs-react-typescript-boilerplate my-app
 cd my-app
 neu update
 yarn install
+# first build for create ./resources folder and files 
+yarn react-build
 yarn start
 ```
 
