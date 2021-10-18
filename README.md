@@ -1,10 +1,14 @@
 Neutralinojs
 
 ```
+npx degit alger23/neutralinojs-react-typescript-boilerplate my-app
+cd my-app
 neu update
 yarn install
 yarn start
 ```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
