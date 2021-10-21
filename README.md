@@ -1,7 +1,7 @@
 ---
-Neutralinojs binaries: v2.8.0
-Neutralinojs client: v1.5.0
-neu CLI: v6.2.0
+Neutralinojs binaries: v3.0.0
+Neutralinojs client: v2.0.0
+neu CLI: v7.0.0
 
 react: v17.0.2
 react-scripts: v4.0.3
