@@ -1,5 +1,3 @@
-Neutralinojs + React + Typescript
-
 ---
 Neutralinojs binaries: v2.8.0
 Neutralinojs client: v1.5.0
@@ -9,6 +7,10 @@ react: v17.0.2
 react-scripts: v4.0.3
 typescript: v4.1.2
 ---
+
+Neutralinojs + React + Typescript
+
+
 
 ```
 npx degit alger23/neutralinojs-react-typescript-boilerplate my-app
